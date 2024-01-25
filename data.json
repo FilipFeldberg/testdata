@@ -80,7 +80,7 @@
       "Stock": 3
     },
     {
-      "ISBN": "EinsZweiDrei",
+      "ISBN": 222,
       "Title": "Stolthet og fordom - Ny Utgave",
       "Author": "Jane Austen",
       "Price": "tretten",
@@ -107,7 +107,7 @@
       "Stock": 5
     },
     {
-      "ISBN": "123-4-56-789012-3",
+      "ISBN": true,
       "Author": "Agatha Christie",
       "Price": 12.99,
       "Stock": 7
