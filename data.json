@@ -1,0 +1,144 @@
+{
+  "workingExamples": [
+    {
+      "ISBN": "978-3-16-148410-0",
+      "Title": "Den store Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Price": 10.99,
+      "Stock": 5
+    },
+    {
+      "ISBN": "978-0-14-143951-8",
+      "Title": "Stolthet og fordom",
+      "Author": "Jane Austen",
+      "Price": 12.99,
+      "Stock": 3
+    },
+    {
+      "ISBN": "978-1-60309-452-8",
+      "Title": "Krig og fred",
+      "Author": "Leo Tolstoj",
+      "Price": 15.99,
+      "Stock": 2
+    },
+    {
+      "ISBN": "978-0-451-53169-6",
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Price": 9.99,
+      "Stock": 4
+    },
+    {
+      "ISBN": "978-1-5011-4687-4",
+      "Title": "Det tapte symbol",
+      "Author": "Dan Brown",
+      "Price": 14.99,
+      "Stock": 6
+    },
+    {
+      "ISBN": "978-0-7432-7356-0",
+      "Title": "Engler og demoner",
+      "Author": "Dan Brown",
+      "Price": 14.99,
+      "Stock": 5
+    },
+    {
+      "ISBN": "978-1-4767-2765-9",
+      "Title": "Inferno",
+      "Author": "Dan Brown",
+      "Price": 14.99,
+      "Stock": 7
+    },
+    {
+      "ISBN": "978-0-06-112008-4",
+      "Title": "Tilværelsens uutholdelige letthet",
+      "Author": "Milan Kundera",
+      "Price": 13.99,
+      "Stock": 4
+    },
+    {
+      "ISBN": "978-0-14-044926-6",
+      "Title": "Don Quijote",
+      "Author": "Miguel de Cervantes",
+      "Price": 18.99,
+      "Stock": 3
+    },
+    {
+      "ISBN": "978-1-5011-7326-7",
+      "Title": "Origin",
+      "Author": "Dan Brown",
+      "Price": 16.99,
+      "Stock": 8
+    }
+  ],
+  "failingExamples": [
+    {
+      "ISBN": "978-3-16-148410-0",
+      "Title": "Den store Gatsby - Kopi",
+      "Author": "F. Scott Fitzgerald",
+      "Price": -2,
+      "Stock": 3
+    },
+    {
+      "ISBN": "EinsZweiDrei",
+      "Title": "Stolthet og fordom - Ny Utgave",
+      "Author": "Jane Austen",
+      "Price": "tretten",
+      "Stock": 3
+    },
+    {
+      "ISBN": "978-1-60309-452-8",
+      "Title": "Krig og fred - Deluxe",
+      "Author": "Leo Tolstoj",
+      "Price": 19.99,
+      "Stock": -5
+    },
+    {
+      "ISBN": "978-1-5011-4687-4",
+      "Title": "Det tapte symbol - Spesialutgave",
+      "Author": "Dan Brown",
+      "Price": 14.99,
+      "Stock": "ti"
+    },
+    {
+      "Title": "Sakløs",
+      "Author": "Harlan Coben",
+      "Price": 15.99,
+      "Stock": 5
+    },
+    {
+      "ISBN": "123-4-56-789012-3",
+      "Author": "Agatha Christie",
+      "Price": 12.99,
+      "Stock": 7
+    },
+    {
+      "ISBN": "978-0-06-112008-4",
+      "Title": "",
+      "Author": "Milan Kundera",
+      "Price": 13.99,
+      "Stock": 4
+    },
+    {
+      "ISBN": "978-0-14-044926-6",
+      "Title": "Don Quijote",
+      "Author": "Miguel de Cervantes",
+      "Price": "attenni",
+      "Stock": 3
+    },
+    {
+      "ISBN": "000-0-00-000000-0",
+      "Title": "En ukjent bok",
+      "Author": "En ukjent forfatter",
+      "Price": 0,
+      "Stock": 0
+    },
+    {
+      "ISBN": "978-1-5011-7326-7",
+      "Title": "Origin",
+      "Author": "Dan Brown",
+      "Price": 16.99,
+      "Stock": "åtte"
+    }
+  ]
+}
